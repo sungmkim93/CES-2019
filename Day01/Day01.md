@@ -16,9 +16,12 @@
   <img src="img/CESBadge.png" width="500" /> 
 </p>
 
-### After showing barcode about CES registration and your ID(Passport or driver lincence in US), I can get the my CES badge
+### After showing barcode about CES registration and ID(Passport or driver license in US), I can get the my CES badge
 
-### Because I didn't know about Las Vegas and CES Tech Center, I just look around Las Vegas Strip.
+### Because I didn't know about Las Vegas and CES Tech Center, I just looked around Las Vegas Strip near CES Tech.
+
+## Nightview near Las Vegas Strip
+
 <p float="left">
   <img src="img/Tour1.png" width="280" />
   <img src="img/Tour3.png" width="280" /> 
