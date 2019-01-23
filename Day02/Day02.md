@@ -46,5 +46,62 @@ From my point of view, I felt she was proficient in English. And I was deeply im
 Thanks to these keynote, I got a bucket list in my life. </br>
 If I become the team leader in the future, I'd like to feel the joy of explaining our team's technology and products proudly in front of a large audience. like I watched it.</br> </strong>
 
+## Below devices are almost made by start up company
+<p float="left">
+<img src="img/EUREKAPARK.JPG" width="300" /> 
+    Eureka Park has many starts up company with new technologies.
+<img src="img/CES_Best_Product.JPG" width="300" />
+    CES_Best_Product is the place where has a collection of 2019 CES Innovation Awards.
+</p>
+
+## Smart Device
+###  ShopPal (made by COWA ROBOT, Inc) [Robotics and Drones]
+ShopPal a self following shopping companion robot automatically tracks you and closely assists you on your walks ShopPal comes with safe storage customized promotion alerts mobile charging and social interactions ShopPal is designed to meet both entertaining and functional demands.
+<img src="img/shoppal.jpg" width="400" />  
+
+### Archer AX11000 802.11ax Wi-Fi Router(made by TP-Link USA corp) [Gaming]
+Archer AX11000 is TP-Link's 802.11ax gaming router and Tri-Band that takes WiFi speed to a whole new level 11000Mbps. It's the world's fastest gaming router.
+<img src="img/Archer_Router.JPG" width="400" /> 
+
+### Wizama board game console (made by Wizama) [Gaming]
+Wizama creates a new entertainment screen, a console featuring built-in touch screen and its own controllers : pawns, cards, dice and dice track to enable both physical and digital interaction. It merges traditional board games and video games through patented technologies.
+<img src="img/Wizama.JPG" width="400" />
+
+
+### HyperCharger XX : Ultimate 8-in-1 Wireless Powerbank (made by LinearFlux USA Inc ) and COSMO COMMUNICATOR (made by PLANET COMPUTERS LTD) [Wireless Devices, Accessories and Services]
+HyperCharger XX : Ultimate 8-in-1 Wireless Powerbank: World's Ultimate High-Power, 15-Watt Wireless & Wired Powerbank for car, home, and travel. Unique latching system, that work like magic, stays attached to your Qi-Wireless smartphone until charging is FULLY completed.
+Charges up to 3 devices at once. </br>
+
+COSMO COMMUNICATOR: Planet Computers introduces the COSMO PDA Smartphone. COSMO provides the ultimate mix of high-end phone, pocket computer & camera functions. With its dual screens (internal and external), a 20MP camera and backlit keyboard. the COSMO is the ultimate all-in-one device for creating on the move.
+<img src="img/HyperChargeAndCOSMO.JPG" width="400" /> 
+
+### LARQ Bottle (made by LARQ) [Sustainability and Eco-Design]
+The LARQ Bottle makes it possible for consumers to drink confidently anywhere, providing instant water purification in a self-cleaning bottle by utilizing proprietary UV-C LED technology that emits UV-C light in the 280 nm range.
+<img src="img/LARQBottle.JPG" width="400" />
+
+### Beko Sardis Payment Terminal (made by Token Finansal Teknoloji A.S. Turkey )  [Cybersecurity and Personal Privacy]
+Beko Sardis, is the next generation payment terminal form TOKEN that secures all payment transactions by bringing high level retail experience to everyday merchants. The revolutionary UI in complete harmony with the industrial design results user experience.
+<img src="img/BekoSardisPaymentTerminal.JPG" width="400" />
+
+### Hercules DJControl Inpulse 300 (made by Hercules is a division of Guillemot Corporation S.A. France)  [Home Audio/Video Components and Accessories]
+The Hercules DJControl Inpulse 300 combines DJ mixing software and an innovative DJ controller with built-in light guides to help aspriring DJs learn how to perfect the art of manual beat-matching and choose the right songs for a seamless music mix.
+<img src="img/HerculesDJControl.JPG" width="400" />
+
+### The zSpace Laptop (made by zSpace) [Virtual and Augmented Reality]
+The zSpace Laptop is the world's first extended reality(XR) labtop that allows students to lift virtual simulations from the screen using a stylus and examine them in detail - enabling a deeper understanding of STEM curriculum.
+<img src="img/zSpace.JPG" width="400" />
+
+### Meshroom Studio Pro (made by Meshroom VR) [ Software and Mobile Apps]
+Meshrooms Studio Pro is the most simple and easy to use Virtual Reality software for 1:1 scale 3D project validation. Our solution allows to save time and costs by avoiding numerous physical prototypes. It is so easy to use that everyone in the company can work them it: from designer to sales teams.
+<img src="img/MeshroomStudioPro.JPG" width="400" />
+
+## Wearable / Health Care
+
+## Smart Home
+
+
+
+## University / Korea start up company
+
 
 
