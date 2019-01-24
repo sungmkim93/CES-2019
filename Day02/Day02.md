@@ -95,6 +95,31 @@ The zSpace Laptop is the world's first extended reality(XR) labtop that allows s
 Meshrooms Studio Pro is the most simple and easy to use Virtual Reality software for 1:1 scale 3D project validation. Our solution allows to save time and costs by avoiding numerous physical prototypes. It is so easy to use that everyone in the company can work them it: from designer to sales teams.
 <img src="img/MeshroomStudioPro.JPG" width="400" />
 
+### Chippolo Dot (made by Chippolo)
+Chipolo's new Bluetooth tracker with a louder melody, extended battery life and an LED light for those dark spots
+<img src="img/ChipoloDot.JPG" width="400" />
+
+### PROTECTIONNECT (made by PROTECTO) [Sustainability and Eco-Design]
+The smart cover PROTECTIONNECT protecs and insuates water meters against freezing to   (-11.2°F − 32) × 5/9 = -24°C ans is fitted with connected technology controlled with a mobile application that allow a real-time monitoring and water leaks detection whenever it occured in housing.
+<img src="img/PROTECTIONNECT.JPG" width="400" />
+
+### Smart Juicer (made by Kuvings) 
+<img src="img/SmartJuicer.JPG" width="400" />
+
+### PicoStill and PicoBrew (made by PicoBrew)
+Meet PicoStill, our new distilling attachment. Affordable, quality design elevates creaft brewing for professional distillers(증류기) and homebrewers alike.
+Distill(증류하다) pilot batches of spirits safely and more precisely, or use PicoStill to capture the essence of hops (홉의 본질)and other oils and imbue(채우다) food and beverages with unique flavors and aromas.
+
+<p float="left">
+<img src="img/PicoStill.JPG" width="300" /> 
+<img src="img/PicoBrew.JPG" width="300" />
+</p>
+
+### TISPY alcohol gadget (made by INFINI MIX HOT CHOCOLATE MACHINE) [Japanese Company]
+It's a handy alcohol detector. It supports the languages (Japan, Korea, China, English). It is used for checking person's health using mobile app.
+<img src="img/TISPY.JPG" width="400" />
+
+
 ## Wearable / Health Care
 
 ## Smart Home
