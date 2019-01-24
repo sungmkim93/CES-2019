@@ -104,8 +104,11 @@ Chipolo's new Bluetooth tracker with a louder melody, extended battery life and 
 The smart cover PROTECTIONNECT protecs and insuates water meters against freezing to   (-11.2°F − 32) × 5/9 = -24°C ans is fitted with connected technology controlled with a mobile application that allow a real-time monitoring and water leaks detection whenever it occured in housing.
 <img src="img/PROTECTIONNECT.JPG" width="400" />
 
-### Smart Juicer (made by Kuvings) 
-<img src="img/SmartJuicer.JPG" width="400" />
+### Smart Juicer (made by Kuvings)  and SmartButton
+<p float="left">
+<img src="img/SmartJuicer.JPG" width="300" /> 
+<img src="img/SmartButton.JPG" width="300" />
+</p>
 
 ### PicoStill and PicoBrew (made by PicoBrew)
 Meet PicoStill, our new distilling attachment. Affordable, quality design elevates creaft brewing for professional distillers(증류기) and homebrewers alike.
