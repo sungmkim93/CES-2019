@@ -125,6 +125,50 @@ It's a handy alcohol detector. It supports the languages (Japan, Korea, China, E
 
 
 ## Wearable / Health Care
+### E-vone (Made by E-vone France Company) [Tech For A Better World]
+E-vone is a fashionable connected shoe designed for the baby boomers that can detect falls and automatically alert caregives. <br>
+It is embedded technology with AI (Sensor = Acceererometer gyroscope, GPS = Location, Battery, LoRa & NBIoT = Antena).
+<img src="img/EVONE.JPG" width="400" />
+
+### Cleer ALLY Plus (made by Cleer, Inc) [Fitness, Sports and Biotech]
+The ALLY Plus True Wireless Headphone, designed to work with voice interface, delivers listening freedom with robust audio straming, active noise canceling, enhanced communications, IPX5 water resistance, and up-to 10 hour playback enabled by a Qualcomm QCC5124 SoC.<br>
+<img src="img/CleerALLY.JPG" width="400" />
+
+### 1MORE Triple Driver BT In-Ear Headphones, 1MORE Spearhead VR BT In-Ear Headphones, 1MORE Penta Driver In-Ear Headphones
+(made by 1MORE) [Headphones]
+- 1MORE's Triple Driver BT In-Ear Headphones feature a patented hybrid acoustic triple driver design and a high-resolution LDAC + AAC Bluetooth codec that provides a lossless, audiophile(오디오 애호가)-grade wireless experience without affecting sound quality.<br>
+- 1MORE's Spearhead VR BT In-Ear Headphones feature a dual-dynamic driver in a patented hybrid acoustic design with low latency Bluetooth v4.2 and ENC technology for real-time sound reproduction and a revolutionary mobile gaming experience.<br>
+- The penta Driver In-Ear Headphones are the newest flagship model of 1MORE's award-winning headphone line, featuring 5 balanced armatures for an extremely intimate listening experience with lower distortion and abundant details.<br>
+<img src="img/1MORE.JPG" width="400" />
+
+### WT2 Plus Real-time Earphone Translator (made by Shenzhen Timekettle Technologies Co, Ltd.)
+WT2 Plus introduces the first "1+2" AI-powered translation system (1 App controls 2 Earphones) in the world. By integrating industry-leading voice alogrithm and machine translation technology. WT2 Plus delivers hands-free and natural communication experience in foreign languages. <br>
+<img src="img/WT2EarePhoneTranslator.JPG" width="400" />
+
+### Quell 2.0
+Introducing Quell 2.0. 100% drug free, wearable technology that can help relieve chronic pain.
+Quell is 100% drug free, and delivers prescription strength pain blocking technology. It’s FDA cleared and designed for people with multiple types and sources of chronic pain. You do not have to wear Quell on the area you are experiencing pain. Nerve stimulation can produce a widespread response that blocks pain signals beyond the site of application. Activate the power Inside You to relieve chronic pain.
+<p float="left">
+<img src="img/Quell_1.JPG" width="300" /> 
+<img src="img/Quell_2.png" width="300" />
+</p>
+<p float="left">
+<img src="img/Quell_3.JPG" width="300" />
+<img src="img/Quell_4.JPG" width="300" />
+</p>
+
+### AURAI
+6 minutes a whole New Horizon. (The World's First Water-Propelled Eye Massager with Cool and Warm Compress)
+<img src="img/AURAI.JPG" width="400" />
+
+### Motion Pillow (made by 10minds)
+<img src="img/MotionPillow.JPG" width="400" />
+
+### Dreamwear Mask System(made by Philips)
+<img src="img/MaskSystem.JPG" width="400" />
+
+### HiiGa One  (made by janpan company)
+<img src="img/HiigaOne.JPG" width="400" />
 
 ## Smart Home
 
