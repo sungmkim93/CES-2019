@@ -101,7 +101,7 @@ Chipolo's new Bluetooth tracker with a louder melody, extended battery life and 
 <img src="img/ChipoloDot.JPG" width="400" />
 
 ### PROTECTIONNECT (made by PROTECTO) [Sustainability and Eco-Design]
-The smart cover PROTECTIONNECT protecs and insuates water meters against freezing to   (-11.2°F − 32) × 5/9 = -24°C ans is fitted with connected technology controlled with a mobile application that allow a real-time monitoring and water leaks detection whenever it occured in housing.
+The smart cover PROTECTIONNECT protecs and insuates water meters against freezing to   (-11.2°F − 32) × 5/9 = -24°C ans is fitted with connected technology controlled with a mobile application that allow a real-time monitoring and water leaks detection whenever it occured in housing.<br>
 <img src="img/PROTECTIONNECT.JPG" width="400" />
 
 ### Smart Juicer (made by Kuvings)  and SmartButton
@@ -111,8 +111,8 @@ The smart cover PROTECTIONNECT protecs and insuates water meters against freezin
 </p>
 
 ### PicoStill and PicoBrew (made by PicoBrew)
-Meet PicoStill, our new distilling attachment. Affordable, quality design elevates creaft brewing for professional distillers(증류기) and homebrewers alike.
-Distill(증류하다) pilot batches of spirits safely and more precisely, or use PicoStill to capture the essence of hops (홉의 본질)and other oils and imbue(채우다) food and beverages with unique flavors and aromas.
+Meet PicoStill, our new distilling attachment. Affordable, quality design elevates creaft brewing for professional distillers(증류기) and homebrewers alike.<br>
+Distill(증류하다) pilot batches of spirits safely and more precisely, or use PicoStill to capture the essence of hops (홉의 본질)and other oils and imbue(채우다) food and beverages with unique flavors and aromas.<br>
 
 <p float="left">
 <img src="img/PicoStill.JPG" width="300" /> 
@@ -120,7 +120,7 @@ Distill(증류하다) pilot batches of spirits safely and more precisely, or use
 </p>
 
 ### TISPY alcohol gadget (made by INFINI MIX HOT CHOCOLATE MACHINE) [Japanese Company]
-It's a handy alcohol detector. It supports the languages (Japan, Korea, China, English). It is used for checking person's health using mobile app.
+It's a handy alcohol detector. It supports the languages (Japan, Korea, China, English). It is used for checking person's health using mobile app.<br>
 <img src="img/TISPY.JPG" width="400" />
 
 
