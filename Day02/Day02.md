@@ -171,8 +171,77 @@ Quell is 100% drug free, and delivers prescription strength pain blocking techno
 <img src="img/HiigaOne.JPG" width="400" />
 
 ## Smart Home
+### EyecloudCam AI-on-edge true wireless smart camera (made by Eyecloud, Inc.) [Smart Home]
+Our mission: Better lives with smart eyes.<br>
+EyecloudCam is the first security camera in the world that offers free AI-on-device. powered by rechargeable batteries, and with encrypted(암호화된) local storage. The AI-on-device technology helps to detect human and strangers, reduce false alarms, and conserve power, while the wire-free design makes it easy to install and record even wiring power outage.<br>
+### nRF91 Series multimode LTE-M/NB-IoT System-in-Package (made by Nordic Semiconductor ASA) [Embedded Technologies]  
+Nordic's nRF91 Series is an ultra-compact, low power, global, multimode LTE-M/NB-IoT System-in-Package with integrated Arm Cortex-M33 host processor, Arm TrustZone security and Assisted GPS. The SiP integrates a complete low power cellular IoT system into a tiny 10x16x1.2 mm package.
+<img src="img/Eyecloud.JPG" width="400" />
 
+### Norm Glasses (made by Human Capable Inc.) [Digital Imaging/Photography]
+Using Norm Glasses, the user can see instructions while keeping hands busy on work, see and respond to text messages, answer or make phone calls, navigate while keeping eyes on the street, check stock prices, call an Uber, etc. For the editions equipped with a camera, it can also scan barcodes, take pictures, or record videos. It supports live streaming/broadcast, and remote assistance. <br>
+### MY SAFE PATROL (made by My SAFE PATROL) [Smart Cities]
+My SAFE PATROL is a AI powered security platform combining guard management tool, real-time alerting system for citizens and dynamic dashboard for security managers.<br>
+### Blue Smart mia2(made by BlueSmart Technology)
+BlueSmart mia2 is an Intelligent Baby Feeding Monitor that allows <br>
+Keeping track of all your baby’s feedings manually is complicated and time-consuming, but using BlueSmart mia2 couldn’t be simpler. <br>
+Step 1: Before Feeding <br>
+Insert your baby bottle into BlueSmart mia2 and let it rest on a hard, flat surface until the ‘portion measured’ indicator lights up green. The Tricolor Bottle indicator will alert you if the temperature of the milk or formula is optimal or not. <br>
+Step 2: Feeding <br>
+If the ‘portion measured’ indicator is lit, you may pick up BlueSmart mia2 with bottle and feed your baby. To avoid distracting the baby while feeding, the indicators will only light up if the feeding angle is too steep, or the temperature is too hot. <br>
+Step 3: After Feeding <br>
+Put BlueSmart mia2 with bottle back onto a hard, flat surface and the feeding will be recorded automatically. Open the app on your Bluetooth-paired device, and you will find all of your baby’s feeding details.<br>
+<img src="img/NormMySafePatrolmia2.JPG" width="400" />
+### Owlet App (made by Owlet Baby Care) [Software and Mobile Apps]
+The Owlet App tracks baby's heart rate, oxygen levels, and sleep, so parents can hear, see, and know baby is okay. Its secure, encrypted connection to Wi-Fi provides parents privacy. With two-way audio, parents can talk to and listen to baby. Wellness insights include heart rate and sleep trends.<br>
+<img src="img/OwletApp.JPG" width="400" />
 
+### Coral One Vacumm Robot (made by Coral Robots, Inc.) [Rototics and Drones]
+The Coral One is the world's first 2-in-1 vacumm robot and cyclonic handheld vacuum. Robotic vacuums haven't changed much in the last 20 years, so we sat down with people and designed something for the way they actually clean robot for the everyday, handheld for the here and there.<br>
+<img src="img/CoralOne.JPG" width="400" />
+
+### Ping (An Independent Living Service) (made by Leeo, Inc) [Accessibility]
+A sensor enabled service to assist our older generation live independently with less impact on society. It provides status and notification to a private mutual aid network of friends and family of each other's Environmental. Presence and Activity quality without the stigma of other solutions.<br>
+<img src="img/Ping.JPG" width="400" />
+
+### Zmoda
+<p float="left">
+<img src="img/Zmoda_1.JPG" width="300" />
+<img src="img/Zmoda_2.JPG width="300" />
+</p>
+
+### MODI (Korea Company)
+Luxrobo MODI Hello IoT Kit (Interactive Smart Block) and Coding Toys Making Pack Set
+<p float="left">
+<img src="img/MODI_1.PNG" width="300" />
+<img src="img/MODI_2.PNGwidth="300" />
+</p>
+<p float="left">
+<img src="img/MODI_3.PNG" width="300" />
+<img src="img/MODI_4.JPG width="300" />
+</p>
+
+### Digital Shower System With KOHLER. Konnect
+Voice-activited on/off operation and Synchronized steam, water, light and music and Personalized settings.<br>
+<p float="left">
+<img src="img/KOHLER_1.JPG" width="300" />
+<img src="img/KOHLER_2.JPG width="300" />
+</p>
+
+### GT Wonder Unlock the intelligence Boy
+The Gt wonder bot is a personal assitant Ai powered bot that serves as a pal also to anyone with it's smart interactive system and vast knowledge of the web, user can interact with it, it schedules your day and acts as a reminder to each appointment, can be used as a hand free camera and most of all can sing and dance <br>
+<img src="img/GTWonderBoy.JPG" width="400" />
+
+### Amazon Key
+Amazon key lets delivery people inside your home
+Amazon will soon be letting delivery drivers leave packages inside your front door, without a key, but with your permission.
+Beginning in November 2017, Amazon will launch "Amazon Key" to prime members in 37 U.S. cities.
+First, users will need to buy a cloud cam camera and a WiFi connected smart lock starting at $249. Then select in-home delivery on the Amazon app. That will allow delivery people to drop off your packages right inside your door when you're not home.
+<img src="img/AmazonKey_1.JPG" width="400" />
+<p float="left">
+<img src="img/AmazonKey_2.JPG" width="300" />
+<img src="img/AmazonKey_3.JPG width="300" />
+</p>
 
 ## University / Korea start up company
 
