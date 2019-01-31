@@ -176,7 +176,7 @@ Our mission: Better lives with smart eyes.<br>
 EyecloudCam is the first security camera in the world that offers free AI-on-device. powered by rechargeable batteries, and with encrypted(암호화된) local storage. The AI-on-device technology helps to detect human and strangers, reduce false alarms, and conserve power, while the wire-free design makes it easy to install and record even wiring power outage.<br>
 ### nRF91 Series multimode LTE-M/NB-IoT System-in-Package (made by Nordic Semiconductor ASA) [Embedded Technologies]  
 Nordic's nRF91 Series is an ultra-compact, low power, global, multimode LTE-M/NB-IoT System-in-Package with integrated Arm Cortex-M33 host processor, Arm TrustZone security and Assisted GPS. The SiP integrates a complete low power cellular IoT system into a tiny 10x16x1.2 mm package.
-<img src="img/Eyecloud.JPG" width="400" />
+<img src="img/Eyecloud.JPG" width="600" />
 
 ### Norm Glasses (made by Human Capable Inc.) [Digital Imaging/Photography]
 Using Norm Glasses, the user can see instructions while keeping hands busy on work, see and respond to text messages, answer or make phone calls, navigate while keeping eyes on the street, check stock prices, call an Uber, etc. For the editions equipped with a camera, it can also scan barcodes, take pictures, or record videos. It supports live streaming/broadcast, and remote assistance. <br>
@@ -191,7 +191,8 @@ Step 2: Feeding <br>
 If the ‘portion measured’ indicator is lit, you may pick up BlueSmart mia2 with bottle and feed your baby. To avoid distracting the baby while feeding, the indicators will only light up if the feeding angle is too steep, or the temperature is too hot. <br>
 Step 3: After Feeding <br>
 Put BlueSmart mia2 with bottle back onto a hard, flat surface and the feeding will be recorded automatically. Open the app on your Bluetooth-paired device, and you will find all of your baby’s feeding details.<br>
-<img src="img/NormMySafePatrolmia2.JPG" width="400" />
+<img src="img/NormMySafePatrolmia2.JPG" width="600" />
+
 ### Owlet App (made by Owlet Baby Care) [Software and Mobile Apps]
 The Owlet App tracks baby's heart rate, oxygen levels, and sleep, so parents can hear, see, and know baby is okay. Its secure, encrypted connection to Wi-Fi provides parents privacy. With two-way audio, parents can talk to and listen to baby. Wellness insights include heart rate and sleep trends.<br>
 <img src="img/OwletApp.JPG" width="400" />
@@ -207,25 +208,25 @@ A sensor enabled service to assist our older generation live independently with 
 ### Zmoda
 <p float="left">
 <img src="img/Zmoda_1.JPG" width="300" />
-<img src="img/Zmoda_2.JPG width="300" />
+<img src="img/Zmoda_2.JPG" width="300" />
 </p>
 
 ### MODI (Korea Company)
 Luxrobo MODI Hello IoT Kit (Interactive Smart Block) and Coding Toys Making Pack Set
 <p float="left">
-<img src="img/MODI_1.PNG" width="300" />
-<img src="img/MODI_2.PNGwidth="300" />
+<img src="img/MODI_1.png" width="300" />
+<img src="img/MODI_2.png" width="300" />
 </p>
 <p float="left">
-<img src="img/MODI_3.PNG" width="300" />
-<img src="img/MODI_4.JPG width="300" />
+<img src="img/MODI_3.png" width="300" />
+<img src="img/MODI_4.JPG" width="300" />
 </p>
 
 ### Digital Shower System With KOHLER. Konnect
 Voice-activited on/off operation and Synchronized steam, water, light and music and Personalized settings.<br>
 <p float="left">
 <img src="img/KOHLER_1.JPG" width="300" />
-<img src="img/KOHLER_2.JPG width="300" />
+<img src="img/KOHLER_2.JPG" width="300" />
 </p>
 
 ### GT Wonder Unlock the intelligence Boy
@@ -235,12 +236,12 @@ The Gt wonder bot is a personal assitant Ai powered bot that serves as a pal als
 ### Amazon Key
 Amazon key lets delivery people inside your home
 Amazon will soon be letting delivery drivers leave packages inside your front door, without a key, but with your permission.
-Beginning in November 2017, Amazon will launch "Amazon Key" to prime members in 37 U.S. cities.
-First, users will need to buy a cloud cam camera and a WiFi connected smart lock starting at $249. Then select in-home delivery on the Amazon app. That will allow delivery people to drop off your packages right inside your door when you're not home.
+Beginning in November 2017, Amazon will launch "Amazon Key" to prime members in 37 U.S. cities. <br>
+First, users will need to buy a cloud cam camera and a WiFi connected smart lock starting at $249. Then select in-home delivery on the Amazon app. That will allow delivery people to drop off your packages right inside your door when you're not home. <br>
 <img src="img/AmazonKey_1.JPG" width="400" />
 <p float="left">
 <img src="img/AmazonKey_2.JPG" width="300" />
-<img src="img/AmazonKey_3.JPG width="300" />
+<img src="img/AmazonKey_3.JPG" width="300" />
 </p>
 
 ## University / Korea start up company
