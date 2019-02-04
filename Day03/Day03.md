@@ -14,9 +14,10 @@ Link: http://live.ces.tech/detail/videos/robotics-machine-intelligence/video/598
 - Rollable TV
 <p float="left">
 <img src="img/LG/Rollable_1.JPG" width="300" /> 
-<img src="img/LG/Rollable_2.JPG" width="300" /> 
+<img src="img/LG/Rollable_2.JPG" width="200" /> 
 <img src="img/LG/Rollable_3.JPG" width="300" /> 
 </p>
+Link: https://youtu.be/t7L40-Apjkg
 
 - Huge display
 <p float="left">
@@ -31,7 +32,7 @@ Link: http://live.ces.tech/detail/videos/robotics-machine-intelligence/video/598
 </p>
 <p float="left">
 <img src="img/LG/Monitor_3.JPG" width="300" /> 
-<img src="img/LG/Monitor_4.JPG" width="300" /> 
+<img src="img/LG/Monitor_4.JPG" width="200" /> 
 <img src="img/LG/Monitor_5.JPG" width="300" /> 
 </p>
 
@@ -39,7 +40,7 @@ Link: http://live.ces.tech/detail/videos/robotics-machine-intelligence/video/598
 <p float="left">
 <img src="img/LG/SmartMirror_1.JPG" width="300" /> 
 </p>
-
+Link: https://youtu.be/FdyMaxy_ZjU
 
 ### SmartPhone
 - V40 ThinQ<br>
